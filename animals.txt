@@ -1,5 +1,9 @@
 Cat
 Dog
 Lion
+<<<<<<< HEAD
 Horse 
 Lion
+=======
+Tiger
+>>>>>>> 2bf069ff367b8e48502069379dd6c1418eef191e
